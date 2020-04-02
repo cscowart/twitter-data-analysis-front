@@ -2,7 +2,7 @@
   "name": "twitter-data-analysis",
   "version": "0.1.0",
   "private": true,
-  "engines" : {
+  "engines": {
     "npm": "6.13.4",
     "node": "12.14.x"
   },
@@ -15,6 +15,7 @@
     "d3-cloud": "^1.2.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1"
   },
   "scripts": {
